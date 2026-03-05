@@ -1,0 +1,59 @@
+2026-03-05 10:46:05,286 - INFO - Starting folder setup process.
+2026-03-05 10:46:05,312 - INFO - Ensured folder exists: \\BCA-ORG-00\Users Folder\jalleyne\Desktop\Protexxa\data_cleaning_scripts\K & K Hair Emprium_dataset 1\K & K Hair Emporium_dataset\k & k hair emporium_raw\k & k hair emporium_raw
+2026-03-05 10:46:05,325 - INFO - Ensured folder exists: \\BCA-ORG-00\Users Folder\jalleyne\Desktop\Protexxa\data_cleaning_scripts\K & K Hair Emprium_dataset 1\K & K Hair Emporium_dataset\k & k hair emporium_raw\k & k hair emporium_processed
+2026-03-05 10:46:05,336 - INFO - Ensured folder exists: \\BCA-ORG-00\Users Folder\jalleyne\Desktop\Protexxa\data_cleaning_scripts\K & K Hair Emprium_dataset 1\K & K Hair Emporium_dataset\k & k hair emporium_raw\k & k hair emporium_garbage
+2026-03-05 10:46:05,348 - INFO - Ensured folder exists: \\BCA-ORG-00\Users Folder\jalleyne\Desktop\Protexxa\data_cleaning_scripts\K & K Hair Emprium_dataset 1\K & K Hair Emporium_dataset\k & k hair emporium_raw\k & k hair emporium_ingested
+2026-03-05 10:46:05,359 - INFO - Ensured folder exists: \\BCA-ORG-00\Users Folder\jalleyne\Desktop\Protexxa\data_cleaning_scripts\K & K Hair Emprium_dataset 1\K & K Hair Emporium_logs
+2026-03-05 10:54:08,067 - INFO - Dropped 6 columns and kept 9 columns
+2026-03-05 10:54:08,069 - INFO - Garbage columns saved to \\BCA-ORG-00\Users Folder\jalleyne\Desktop\Protexxa\data_cleaning_scripts\K & K Hair Emprium_dataset 1\K & K Hair Emporium_dataset\k & k hair emporium_raw\k & k hair emporium_garbage\dropped_columns.csv
+2026-03-05 10:54:08,070 - INFO - Cleaned data saved to \\BCA-ORG-00\Users Folder\jalleyne\Desktop\Protexxa\data_cleaning_scripts\K & K Hair Emprium_dataset 1\K & K Hair Emporium_dataset\k & k hair emporium_raw\k & k hair emporium_ingested\df_cleaned.csv
+2026-03-05 10:57:08,731 - INFO - Old column names saved: \\BCA-ORG-00\Users Folder\jalleyne\Desktop\Protexxa\data_cleaning_scripts\K & K Hair Emprium_dataset 1\K & K Hair Emporium_dataset\k & k hair emporium_raw\k & k hair emporium_garbage\old_column_names.csv
+2026-03-05 10:57:08,733 - INFO - Final column names: ['Name', 'Email Address', 'Salt', 'Date of Birth', 'Phone Number', 'Address', 'City', 'State', 'Zip Code']
+2026-03-05 11:03:19,122 - INFO - Old column names saved: \\BCA-ORG-00\Users Folder\jalleyne\Desktop\Protexxa\data_cleaning_scripts\K & K Hair Emprium_dataset 1\K & K Hair Emporium_dataset\k & k hair emporium_raw\k & k hair emporium_garbage\old_column_names.csv
+2026-03-05 11:03:19,124 - INFO - Final column names: ['Name', 'Email Address', 'Salt', 'Date of Birth', 'Phone Number', 'Address', 'City', 'State', 'Zip Code']
+2026-03-05 11:04:33,253 - INFO - Old column names saved: \\BCA-ORG-00\Users Folder\jalleyne\Desktop\Protexxa\data_cleaning_scripts\K & K Hair Emprium_dataset 1\K & K Hair Emporium_dataset\k & k hair emporium_raw\k & k hair emporium_garbage\old_column_names.csv
+2026-03-05 11:04:33,256 - INFO - Final column names: ['  Name  nsuef', 'Email Addresshbjjb ', 'Salt %^bh ', 'Date of Birth   ', 'Street Name  9x9x ', 'Parish   hbjjb', ' Zip   12582', 'Country  %^bh', 'Contact Number  (raw) ']
+2026-03-05 11:05:19,602 - INFO - Old column names saved: \\BCA-ORG-00\Users Folder\jalleyne\Desktop\Protexxa\data_cleaning_scripts\K & K Hair Emprium_dataset 1\K & K Hair Emporium_dataset\k & k hair emporium_raw\k & k hair emporium_garbage\old_column_names.csv
+2026-03-05 11:05:19,604 - INFO - Final column names: ['  Name  nsuef', 'Email Addresshbjjb ', 'Salt %^bh ', 'Date of Birth   ', 'Street Name  9x9x ', 'Parish   hbjjb', ' Zip   12582', 'Country  %^bh', 'Contact Number  (raw) ']
+2026-03-05 11:06:12,066 - INFO - Old column names saved: \\BCA-ORG-00\Users Folder\jalleyne\Desktop\Protexxa\data_cleaning_scripts\K & K Hair Emprium_dataset 1\K & K Hair Emporium_dataset\k & k hair emporium_raw\k & k hair emporium_garbage\old_column_names.csv
+2026-03-05 11:06:12,071 - INFO - Final column names: ['  Name  nsuef', 'Email Addresshbjjb ', 'Salt %^bh ', 'Date of Birth   ', 'Street Name  9x9x ', 'Parish   hbjjb', ' Zip   12582', 'Country  %^bh', 'Contact Number  (raw) ']
+2026-03-05 11:20:48,641 - INFO - Old column names saved: \\BCA-ORG-00\Users Folder\jalleyne\Desktop\Protexxa\data_cleaning_scripts\K & K Hair Emprium_dataset 1\K & K Hair Emporium_dataset\k & k hair emporium_raw\k & k hair emporium_garbage\old_column_names.csv
+2026-03-05 11:20:48,643 - INFO - Final column names: ['Name', 'Email Address', 'Salt', 'Date of Birth', 'Street Name', 'Parish', 'Zip', 'Country', 'Contact Number']
+2026-03-05 11:21:26,316 - INFO - Old column names saved: \\BCA-ORG-00\Users Folder\jalleyne\Desktop\Protexxa\data_cleaning_scripts\K & K Hair Emprium_dataset 1\K & K Hair Emporium_dataset\k & k hair emporium_raw\k & k hair emporium_garbage\old_column_names.csv
+2026-03-05 11:21:26,317 - INFO - Final column names: ['Name', 'Email Address', 'Salt', 'Date of Birth', 'Street Name', 'Parish', 'Zip', 'Country', 'Contact Number']
+2026-03-05 11:21:45,192 - INFO - Name column split into First Name and Last Name
+2026-03-05 11:21:45,194 - INFO - New column order: ['First Name', 'Last Name', 'Email Address', 'Salt', 'Date of Birth', 'Street Name', 'Parish', 'Zip', 'Country', 'Contact Number']
+2026-03-05 11:22:46,379 - INFO - Old column names saved: \\BCA-ORG-00\Users Folder\jalleyne\Desktop\Protexxa\data_cleaning_scripts\K & K Hair Emprium_dataset 1\K & K Hair Emporium_dataset\k & k hair emporium_raw\k & k hair emporium_garbage\old_column_names.csv
+2026-03-05 11:22:46,382 - INFO - Final column names: ['First Name', 'Last Name', 'Email Address', 'Salt', 'Date of Birth', 'Street Name', 'Parish', 'Zip', 'Country', 'Contact Number']
+2026-03-05 11:23:05,899 - INFO - Name column split into First Name and Last Name
+2026-03-05 11:23:05,901 - INFO - Final column order: ['First Name', 'Last Name', 'Email Address', 'Salt', 'Date of Birth', 'Street Name', 'Parish', 'Zip', 'Country', 'Contact Number']
+2026-03-05 11:25:22,918 - INFO - Starting folder setup process.
+2026-03-05 11:25:22,931 - INFO - Ensured folder exists: \\BCA-ORG-00\Users Folder\jalleyne\Desktop\Protexxa\data_cleaning_scripts\K & K Hair Emprium_dataset 1\K & K Hair Emporium_dataset\k & k hair emporium_raw\k & k hair emporium_raw
+2026-03-05 11:25:22,941 - INFO - Ensured folder exists: \\BCA-ORG-00\Users Folder\jalleyne\Desktop\Protexxa\data_cleaning_scripts\K & K Hair Emprium_dataset 1\K & K Hair Emporium_dataset\k & k hair emporium_raw\k & k hair emporium_processed
+2026-03-05 11:25:22,952 - INFO - Ensured folder exists: \\BCA-ORG-00\Users Folder\jalleyne\Desktop\Protexxa\data_cleaning_scripts\K & K Hair Emprium_dataset 1\K & K Hair Emporium_dataset\k & k hair emporium_raw\k & k hair emporium_garbage
+2026-03-05 11:25:22,962 - INFO - Ensured folder exists: \\BCA-ORG-00\Users Folder\jalleyne\Desktop\Protexxa\data_cleaning_scripts\K & K Hair Emprium_dataset 1\K & K Hair Emporium_dataset\k & k hair emporium_raw\k & k hair emporium_ingested
+2026-03-05 11:25:22,971 - INFO - Ensured folder exists: \\BCA-ORG-00\Users Folder\jalleyne\Desktop\Protexxa\data_cleaning_scripts\K & K Hair Emprium_dataset 1\K & K Hair Emporium_logs
+2026-03-05 11:27:54,473 - INFO - Dropped 6 columns and kept 9 columns
+2026-03-05 11:27:54,475 - INFO - Garbage columns saved to \\BCA-ORG-00\Users Folder\jalleyne\Desktop\Protexxa\data_cleaning_scripts\K & K Hair Emprium_dataset 1\K & K Hair Emporium_dataset\k & k hair emporium_raw\k & k hair emporium_garbage\dropped_columns.csv
+2026-03-05 11:27:54,476 - INFO - Cleaned data saved to \\BCA-ORG-00\Users Folder\jalleyne\Desktop\Protexxa\data_cleaning_scripts\K & K Hair Emprium_dataset 1\K & K Hair Emporium_dataset\k & k hair emporium_raw\k & k hair emporium_ingested\df_cleaned.csv
+2026-03-05 11:28:03,899 - INFO - Dropped 6 columns and kept 9 columns
+2026-03-05 11:28:03,901 - INFO - Garbage columns saved to \\BCA-ORG-00\Users Folder\jalleyne\Desktop\Protexxa\data_cleaning_scripts\K & K Hair Emprium_dataset 1\K & K Hair Emporium_dataset\k & k hair emporium_raw\k & k hair emporium_garbage\dropped_columns.csv
+2026-03-05 11:28:03,902 - INFO - Cleaned data saved to \\BCA-ORG-00\Users Folder\jalleyne\Desktop\Protexxa\data_cleaning_scripts\K & K Hair Emprium_dataset 1\K & K Hair Emporium_dataset\k & k hair emporium_raw\k & k hair emporium_ingested\df_cleaned.csv
+2026-03-05 11:28:07,521 - INFO - Old column names saved: \\BCA-ORG-00\Users Folder\jalleyne\Desktop\Protexxa\data_cleaning_scripts\K & K Hair Emprium_dataset 1\K & K Hair Emporium_dataset\k & k hair emporium_raw\k & k hair emporium_garbage\old_column_names.csv
+2026-03-05 11:28:07,523 - INFO - Final column names: ['Name', 'Email Address', 'Salt', 'Date of Birth', 'Street Name', 'Parish', 'Zip', 'Country', 'Contact Number']
+2026-03-05 11:28:38,136 - INFO - Dropped 6 columns and kept 9 columns
+2026-03-05 11:28:38,138 - INFO - Garbage columns saved to \\BCA-ORG-00\Users Folder\jalleyne\Desktop\Protexxa\data_cleaning_scripts\K & K Hair Emprium_dataset 1\K & K Hair Emporium_dataset\k & k hair emporium_raw\k & k hair emporium_garbage\dropped_columns.csv
+2026-03-05 11:28:38,139 - INFO - Cleaned data saved to \\BCA-ORG-00\Users Folder\jalleyne\Desktop\Protexxa\data_cleaning_scripts\K & K Hair Emprium_dataset 1\K & K Hair Emporium_dataset\k & k hair emporium_raw\k & k hair emporium_ingested\df_cleaned.csv
+2026-03-05 11:28:46,671 - INFO - Columns renamed from raw to cleaned names
+2026-03-05 11:28:46,672 - INFO - Name column split into First Name and Last Name
+2026-03-05 11:28:46,674 - INFO - Final column order: ['First Name', 'Last Name', 'Email Address', 'Salt', 'Date of Birth', 'Street Name', 'Parish', 'Zip', 'Country', 'Contact Number']
+2026-03-05 11:34:48,141 - INFO - Removed 314 rows with invalid/missing Date of Birth
+2026-03-05 11:34:48,143 - INFO - Cleaned data rows after removal: 626
+2026-03-05 11:38:21,837 - INFO - Merged Street Name, Parish, Zip, and Country into single Address column
+2026-03-05 11:38:21,839 - INFO - Final column order: ['First Name', 'Last Name', 'Email Address', 'Salt', 'Date of Birth', 'Contact Number', 'Address']
+2026-03-05 11:47:36,452 - INFO - Removed 73 rows with invalid email addresses
+2026-03-05 11:47:36,454 - INFO - Invalid emails saved to \\BCA-ORG-00\Users Folder\jalleyne\Desktop\Protexxa\data_cleaning_scripts\K & K Hair Emprium_dataset 1\K & K Hair Emporium_dataset\k & k hair emporium_raw\k & k hair emporium_garbage\invalid_emails.csv
+2026-03-05 11:47:36,455 - INFO - Cleaned data rows after email validation: 553
+2026-03-05 11:53:42,073 - INFO - Final cleaned data shape: (553, 7)
+2026-03-05 11:53:42,074 - INFO - Final column names: ['First Name', 'Last Name', 'Email Address', 'Salt', 'Date of Birth', 'Contact Number', 'Address']
+2026-03-05 11:53:42,076 - INFO - Final cleaned data saved to \\BCA-ORG-00\Users Folder\jalleyne\Desktop\Protexxa\data_cleaning_scripts\K & K Hair Emprium_dataset 1\K & K Hair Emporium_dataset\k & k hair emporium_raw\k & k hair emporium_ingested\df_cleaned_final.csv

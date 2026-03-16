@@ -1,0 +1,14 @@
+# OS / Editor
+.DS_Store
+Thumbs.db
+.ipynb_checkpoints/
+
+# Generated logs
+new meet_logs/*.log
+New Meet_dataset/NEW MEET_logs/*.log
+
+# Large generated datasets and outputs
+New Meet_dataset/new meet_raw/**/*.csv
+
+# Optional: if you do not want notebook outputs/versioning
+# New Meet_dataset/*.ipynb
